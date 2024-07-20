@@ -1,0 +1,13 @@
+name = "ExampleSatTelemetry"
+uuid = "bdf5be5f-68fe-4369-84e0-54bcce4d1960"
+authors = ["Ronan Arraes Jardim Chagas <ronisbr@gmail.com>"]
+version = "0.0.1"
+
+[deps]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+TelemetryAnalysis = "d7a29a4d-ab51-489b-bb94-63d3a201890b"
+
+[compat]
+Dates = "1.6"
+TelemetryAnalysis = "2"
+julia = "1.6"
